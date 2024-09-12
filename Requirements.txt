@@ -1,0 +1,4 @@
+google-generativeai
+opencv-python # This provides the cv2 module
+Pillow # This provides the PIL (Python Imaging Library) module
+streamlit
