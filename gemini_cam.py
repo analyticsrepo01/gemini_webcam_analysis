@@ -6,7 +6,6 @@ from PIL import Image
 from google.generativeai.types import content_types
 import streamlit as st
 
-# genai.configure(api_key="AIzaSyDY0lPMyESWzS_UkphVB6f4X_JJEc1OUHY")
 
 API_KEY = 'USE YOUR OWN API KEY'
 genai.configure(api_key=API_KEY)
